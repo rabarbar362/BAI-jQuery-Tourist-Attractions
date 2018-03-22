@@ -4,8 +4,8 @@
 		id          = "tourist attractions app jquery BAI"
         version     = "1.0.0" >
 
-    <name>Business Card jQM</name>
-    <description>My first mobile app with jQuery Mobile user interface</description>
+    <name>Tourist Attractions jQM</name>
+    <description>Tourist attractions app with jQuery Mobile user interface</description>
     <author href="https://github.com/rabarbar362" email="barbara.nogas@gmail.com">
 		Basia Nogaś
 	</author>
